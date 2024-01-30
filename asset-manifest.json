@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vineeth.Dev/static/css/main.00ba7b92.css",
-    "main.js": "/vineeth.Dev/static/js/main.202044f0.js",
+    "main.css": "/vineeth.Dev/static/css/main.090f626f.css",
+    "main.js": "/vineeth.Dev/static/js/main.43807138.js",
     "static/media/Elearning_preview2.gif": "/vineeth.Dev/static/media/Elearning_preview2.942a1c671a65b90ca39d.gif",
     "static/media/preview2.gif": "/vineeth.Dev/static/media/preview2.af30595212528c1e0b64.gif",
     "static/media/elearning_preview1.gif": "/vineeth.Dev/static/media/elearning_preview1.a3f9471f64daf8352b9b.gif",
@@ -58,11 +58,11 @@
     "static/media/Screenshot (316).png": "/vineeth.Dev/static/media/Screenshot (316).692296d2e1a523d2da43.png",
     "static/media/Screenshot (270).png": "/vineeth.Dev/static/media/Screenshot (270).833de578367109409418.png",
     "index.html": "/vineeth.Dev/index.html",
-    "main.00ba7b92.css.map": "/vineeth.Dev/static/css/main.00ba7b92.css.map",
-    "main.202044f0.js.map": "/vineeth.Dev/static/js/main.202044f0.js.map"
+    "main.090f626f.css.map": "/vineeth.Dev/static/css/main.090f626f.css.map",
+    "main.43807138.js.map": "/vineeth.Dev/static/js/main.43807138.js.map"
   },
   "entrypoints": [
-    "static/css/main.00ba7b92.css",
-    "static/js/main.202044f0.js"
+    "static/css/main.090f626f.css",
+    "static/js/main.43807138.js"
   ]
 }
